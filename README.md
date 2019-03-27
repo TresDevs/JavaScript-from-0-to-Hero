@@ -1,17 +1,18 @@
-My New App
+JavaScript from 0 to Hero
 ==========
 
-Este es el README de mi nueva aplicación MyNewApp.
+Este es el índice o el path que vamos a seguir para explicar JavaScript y llegar a ser los putos amos.
+Al terminar nos iremos al FrontEnd para darle caña a ReactJS.
 
-Este fichero se usa de ejemplo dentro del blog de aprendegit.com para crear un primer repositorio.
-
-Ejemplos de markdown
+1.Variables
 --------------------
 
-Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
-+ Elemento 1
-+ Elemento 2
-+ Elemento 3
+    + Cómo declararlas y camelCase
+    + Tipo de variables
+    + Valores de asignación y asignación compuesta
+    + Variables “undefined”
+    + +-*/  (operaciones numéricas)
+    + Incremento y decremento de una variable
 
 
 
