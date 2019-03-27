@@ -7,12 +7,12 @@ Al terminar nos iremos al FrontEnd para darle caña a ReactJS.
 1.Variables
 --------------------
 
-    + Cómo declararlas y camelCase
-    + Tipo de variables
-    + Valores de asignación y asignación compuesta
-    + Variables “undefined”
-    + +-*/  (operaciones numéricas)
-    + Incremento y decremento de una variable
+    * Cómo declararlas y camelCase
+    * Tipo de variables
+    * Valores de asignación y asignación compuesta
+    * Variables “undefined”
+    * +-*/  (operaciones numéricas)
+    * Incremento y decremento de una variable
 
 
 
