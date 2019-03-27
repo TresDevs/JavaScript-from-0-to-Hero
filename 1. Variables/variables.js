@@ -1,11 +1,11 @@
 // Variables (caja para guardar algo)
 
 // Tipos de variables
-/*
+
 String -> 'Hola' | "Adios"
 Number -> 1, 2, 3, 4.5, 10.3546
 Boolean -> true / false
-*/
+
 
 // Forma de declarar una variable
 var variableString = "Hola";
@@ -20,8 +20,8 @@ let clienteSeleccionado = "prueba"; // variable que va a cambiar de valor
 const clientes = "prueba2"; // variable que no va a cambiar su valor
 
 // Asignaciones de variables
-let nombre = "Alex";
-nombre = "Jordi";
+let nombre = "Alex"; // seleccionamos let ya que cambiara de "Alex" a "Jordi"
+nombre = "Jordi"; 
 
 // Operaciones matemáticas
 const plus = 2 + 2;
@@ -61,6 +61,8 @@ const name = "Alex";
 const showName = `Hola, soy ${name}`;
 console.log(showName);
 
+// Quítale el coment para probar el consolelog
+
 // console.log("Suma", plus);
 // console.log("Resta", minus);
 // console.log("Multiplicación", multi);
@@ -69,26 +71,3 @@ console.log(showName);
 
 // Mostrar en la consola del navegador
 // console.log(nombre);
-
-// Arrays
-
-const marcas = ["fiat", "ford", "ferrari"];
-console.log(marcas.length); // nos devolvera 3
-
-// Solo añadir
-marcas.push("BMW"); // Añade un valor al final de la array
-
-// Añadir y asignar
-const agregamosUltima = marcas.push("Renault");
-
-marcas.pop(); // Elimina el ultimo valor de la array
-
-marcas.unshift("MarcaPEPE"); // Añade el valor al inicio del array
-
-marcas.shift("Marca2"); // Eliminar el primer valor del array
-
-// Arrays multidimensionales
-const multidimensional = [1, 2, [3, 4], 5, 6];
-
-// Acceder de forma simple a un elemento de un array
-const ultima = marcas[2]; // ferrari
