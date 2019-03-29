@@ -20,4 +20,5 @@ marcas.shift(); // Eliminar el primer valor del array
 const multidimensional = [1, 2, [3, 4], 5, 6];
 
 // Acceder de forma simple a un elemento de un array
-const ultima = marcas[2]; // Devuelve ferrari ya que esta en la tercera posicion [0,1,2]
+const ultima = marcas[2]; // Guardamos el ultimo elemento de la array en la variable ultima
+console.log(ultima); // Devuelve ferrari ya que esta en la tercera posicion [0,1,2]
