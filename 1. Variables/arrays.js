@@ -14,7 +14,7 @@ const agregamosUltima = marcas.push("Renault"); // Nos devuelve["fiat", "ford", 
 // Eliminar
 marcas.pop(); // Elimina el ultimo valor de la array
 
-marcas.shift("Marca2"); // Eliminar el primer valor del array
+marcas.shift(); // Eliminar el primer valor del array
 
 // Arrays multidimensionales
 const multidimensional = [1, 2, [3, 4], 5, 6];
