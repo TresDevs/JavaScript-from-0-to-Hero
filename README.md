@@ -57,5 +57,54 @@ Al terminar nos iremos al FrontEnd para darle caña a ReactJS.
 - Manipular objetos complejos
 - Acceso a Nested arrays y objetos
 
+8.Clases
+--------------------
+- ¿Qué es una clase?
+- ¿Qué nos aportan las clases?
+- Definir propiedades
+- Definir métodos
+- Getters / Setters
+- Instancia de una clase
+
+9.Node.js
+--------------------
+- Introducción
+- ¿Qué se puede hacer con Node.js?
+- Instalación y ejecución de un archivo simple
+- NPM (Node Package Manager)
+- Ecosistema de Node.js
+
+10.Express.JS
+--------------------
+- Introducción
+- ¿Qué nos permite hacer Express.js?
+- Creación de un servidor básico
+- Rutas básicas y Postman
+- Integración con Mongoose y MongoDB para interactuar con una base de datos.
+
+11.Introducción a React
+--------------------
+- Introducción
+- ¿Qué nos aporta React?
+
+11.5.Bundlers en JavaScript
+--------------------
+- Introducción
+- Ventajas e inconvenientes
+- Parcel, nuestro primer bundler
+- Webpack, breve introducción
+
+12.React
+--------------------
+- ¡Hola Mundo!
+- Componentes en React
+- Props en los componentes
+- State en los componentes
+- Componentes como función
+- Ciclos de vida de un componente
+- Gestión de eventos
+- Render condicional
+- Render de listas
+
 
 Directo en https://www.twitch.tv/raskardev y https://www.twitch.tv/vulcanok
